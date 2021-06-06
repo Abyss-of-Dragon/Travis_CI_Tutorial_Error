@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.com/Abyss-of-Dragon/Travis_CI_Tutorial_Error.svg?branch=main)](https://travis-ci.com/Abyss-of-Dragon/Travis_CI_Tutorial_Error)
 # How to Use Travis CI with Java on GitHub
 This repository is a demo of how to use [Travis CI](https://docs.travis-ci.com/) in a Java project on GitHub.
 
